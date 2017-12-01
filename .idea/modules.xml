@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring-cloud-modules.iml" filepath="$PROJECT_DIR$/spring-cloud-modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureak-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureak-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
     </modules>
   </component>
 </project>

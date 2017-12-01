@@ -7,14 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureak-server" />
-        <module name="eureakserver" />
-        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="eureak-server" target="1.6" />
-      <module name="eureakserver" target="1.5" />
-      <module name="eureka-server" target="1.8" />
+      <module name="eureak-server" target="1.8" />
+      <module name="spring-cloud" target="1.6" />
       <module name="spring-cloud-modules" target="1.6" />
     </bytecodeTargetLevel>
   </component>

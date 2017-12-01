@@ -13,7 +13,7 @@
         <relativePath/>
     </parent>
     <groupId>com.xfl</groupId>
-    <artifactId>spring-cloud-modules</artifactId>
+    <artifactId>spring-cloud</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <!--依赖管理，用于管理spring-cloud的依赖-->
