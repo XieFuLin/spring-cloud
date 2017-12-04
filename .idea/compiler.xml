@@ -9,6 +9,7 @@
         <module name="client" />
         <module name="consumer" />
         <module name="eureak-server" />
+        <module name="eureka-server" />
         <module name="server" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
       <module name="client" target="1.6" />
       <module name="consumer" target="1.6" />
       <module name="eureak-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
       <module name="server" target="1.6" />
       <module name="spring-cloud" target="1.6" />
       <module name="spring-cloud-modules" target="1.6" />

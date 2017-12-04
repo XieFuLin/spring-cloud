@@ -19,6 +19,12 @@
     <artifactId>spring-cloud</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-eureka-server</artifactId>
+        </dependency>
+    </dependencies>
     <!--依赖管理，用于管理spring-cloud的依赖-->
     <dependencyManagement>
         <dependencies>
